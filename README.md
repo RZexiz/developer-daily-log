@@ -4,6 +4,7 @@ Automated, transparent daily repository-maintenance records.
 
 ## Recent entries
 
+- [2026-08-09](logs/2026/08/2026-08-09.md)
 - [2026-08-08](logs/2026/08/2026-08-08.md)
 - [2026-08-07](logs/2026/08/2026-08-07.md)
 - [2026-08-06](logs/2026/08/2026-08-06.md)
