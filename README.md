@@ -4,6 +4,7 @@ Automated, transparent daily repository-maintenance records.
 
 ## Recent entries
 
+- [2026-09-12](logs/2026/09/2026-09-12.md)
 - [2026-09-11](logs/2026/09/2026-09-11.md)
 - [2026-09-10](logs/2026/09/2026-09-10.md)
 - [2026-09-09](logs/2026/09/2026-09-09.md)
@@ -33,6 +34,5 @@ Automated, transparent daily repository-maintenance records.
 - [2026-08-15](logs/2026/08/2026-08-15.md)
 - [2026-08-14](logs/2026/08/2026-08-14.md)
 - [2026-08-13](logs/2026/08/2026-08-13.md)
-- [2026-08-12](logs/2026/08/2026-08-12.md)
 
 Each entry is generated once per calendar day; no history is backdated.
